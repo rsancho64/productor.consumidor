@@ -1,6 +1,9 @@
 #! /usr/bin/python3
 
-"""TODO: HACER QUE CONSUMIDOR Y PRODUCTOR HAGAN SIESTAS DE 
+"""TODO: 
+1. ver sync queue's : https://docs.python.org/3/library/queue.html#module-queue
+2. ver asyncio.Queue: https://docs.python.org/3/library/asyncio-queue.html
+3. HACER QUE CONSUMIDOR Y PRODUCTOR HAGAN SIESTAS DE 
 DURACION ALEATORIA Y EL PRODUCTOR TIRE UN DADO 
 PARA PONER SU VALOR EN LA COLA"""    
 
